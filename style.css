@@ -24,7 +24,7 @@ body {
     mix-blend-mode: hard-light;
 }
 
-.glitch:hover:before {
+.glitch:before {
     animation: animate .2s infinite;
 }
 
